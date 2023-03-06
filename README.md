@@ -183,7 +183,7 @@ Matlab: One-key evaluation is written in MATLAB code ([link](https://drive.googl
 please follow this the instructions in `./eval/main.m` and just run it to generate the evaluation results in `./res/`.
 The complete evaluation toolbox (including data, map, eval code, and res): [new link](https://drive.google.com/file/d/1bnlz7nfJ9hhYsMLFSBr9smcI7k7p0pVy/view?usp=sharing). 
 
-Python: Please refer to the work of ACMMM2021 https://github.com/plemeri/UACANet
+Python: Please refer to the work of ACMMM2021(https://github.com/plemeri/UACANet/blob/main/run/Eval.py) https://github.com/plemeri/UACANet
 
 ### 3.3 Pre-computed maps: 
 They can be found in [download link](https://drive.google.com/file/d/1tW0OOxPSuhfSbMijaMPwRDPElW1qQywz/view?usp=sharing).
